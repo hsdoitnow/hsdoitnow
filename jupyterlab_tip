@@ -1,0 +1,12 @@
+
+### print 시 entire data frame
+pd.set_option('display.max_columns', None)  # or 1000
+pd.set_option('display.max_rows', None)  # or 1000
+pd.set_option('display.max_colwidth', None)  # or 199
+
+
+### 함수 자동 완성
+입력하다가 tab 누르면 됨.
+tap 눌러도 안되면 아래 코드 실행
+
+%config Completer.use_jedi = False
