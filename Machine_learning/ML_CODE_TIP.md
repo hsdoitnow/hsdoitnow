@@ -7,4 +7,4 @@
 
 3. 모델 별 random_state 1회 사용, 2회 사용?
    > tree model은 model안에 random_state도 써주고  split 할때 random_state 써주면 좋다. 
-   > regreesion 모델은 split 할때만 쓴다.
+   > regressor 모델은 split 할때만 쓴다.
