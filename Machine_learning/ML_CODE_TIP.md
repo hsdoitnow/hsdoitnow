@@ -9,4 +9,4 @@
    > tree model은 model안에 random_state도 써주고  split 할때 random_state 써주면 좋다. 
    > regressor 모델은 split 할때만 쓴다.
 
-4. Y값은 iloc 사용하지 말고(매트릭스는 워닝 발생) sereis 형태로 변환해서 사용한다.
+4. y값은 iloc 사용하지 말고(매트릭스 형태는 워닝 발생) sereis 형태로 변환해서 사용한다.
