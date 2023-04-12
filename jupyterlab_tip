@@ -174,3 +174,7 @@ Down
 : move cursor down
 Up
 : move cursor up
+
+
+### 함수 설명 보기
+함수에 커서 올려 놓고  SHIFT+TAB 
